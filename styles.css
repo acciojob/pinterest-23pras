@@ -18,7 +18,8 @@
 	color:white;
 }
 
-.hero img{
+img{
 	width:80%;
-	height:50%
+	height:50%;
+	object-fit:cover;
 }
